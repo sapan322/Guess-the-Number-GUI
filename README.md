@@ -2,7 +2,7 @@
 
 A simple “guess the number” game.
 
-I am create this project to improve my skills: 
+I created this project to improve my skills: 
 - Python for game logic
 - tkinter with ttkbootstrap for GUI interface
 - Git for version control
